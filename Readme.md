@@ -6,3 +6,5 @@ Treinando para conhecer mais de git.
 
 testando o diff;
 
+
+mandando dados para repositório remoto!
