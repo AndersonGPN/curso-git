@@ -10,3 +10,5 @@ testando o diff;
 mandando dados para repositório remoto!
 
 teste de envio.
+
+nova entrega para o remoto.
