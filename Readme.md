@@ -12,3 +12,5 @@ mandando dados para repositório remoto!
 teste de envio.
 
 nova entrega para o remoto.
+
+agora essa linha será enviar do github para o git local!! use o git pull remote master
