@@ -13,5 +13,9 @@ teste de envio.
 
 nova entrega para o remoto.
 
+<<<<<<< HEAD
 
 teste para merge.
+=======
+agora essa linha será enviar do github para o git local!! use o git pull remote master
+>>>>>>> 4ea356fb10642f6721cada7ff144d74da0c28a86
